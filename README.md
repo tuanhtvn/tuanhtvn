@@ -47,10 +47,10 @@
 <p> 
 </p>
 <div align="center">
-    <a href="https://www.linkedin.com/in/tuanhtvn/">
+    <a href="https://www.linkedin.com/in/tuanhtvn/" target="_blank" >
         <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.linkedin.com/in/tuanhtvn/">
+    <a href="https://www.linkedin.com/in/tuanhtvn/" target="_blank" >
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
@@ -71,7 +71,7 @@
 <div align="center">
     <table align="center" width="100%" height="100%" >
         <tr>
-            <td>
+            <td align="center">
                 <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanhtvn&theme=github_dark" alt="Tuan's GitHub Stats"/>
             </td>
         </tr>
