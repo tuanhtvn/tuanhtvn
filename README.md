@@ -47,13 +47,13 @@
 <p> 
 </p>
 <div align="center">
-    <a href="https://www.linkedin.com/in/tuanhtvn/" target="_blank">
+    <a href="https://www.linkedin.com/in/tuanhtvn/">
         <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.facebook.com/tuanhtvn2206" target="_blank">
+    <a href="https://www.facebook.com/tuanhtvn2206">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://github.com/tuanhtvn/" target="_blank">
+    <a href="https://github.com/tuanhtvn/">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </div>
