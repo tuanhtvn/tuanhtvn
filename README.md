@@ -87,6 +87,10 @@
             <td>
                 <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuanhtvn&theme=github_dark&utcOffset=7" alt="Tuan's GitHub Stats">
             </td>
+        </tr>
+    </table>
+     <table align="center" width="100%" height="100%" >
+        <tr>
             <td>
                 <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanhtvn&theme=github_dark" alt="Tuan's GitHub Stats"/>
             </td>
